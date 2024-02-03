@@ -1,7 +1,4 @@
-> If you're looking for Airflow videos from the 2022 edition,
-> check the [2022 cohort folder](../cohorts/2022/week_2_data_ingestion/). <br>
-> If you're looking for Prefect videos from the 2023 edition,
-> check the [2023 cohort folder](../cohorts/2023/week_2_data_ingestion/).
+
 
 # Week 2: Workflow Orchestration
 
